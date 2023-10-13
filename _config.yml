@@ -62,18 +62,13 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Passionate about digital defense, I am a recent Cyber Security graduate driven to combat cyber threats with innovative solutions."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/kurtis-thorne"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    
 
 footer:
   links:
