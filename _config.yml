@@ -63,7 +63,7 @@ author:
   bio    : "Passionate about digital defense, I am a recent Cyber Security graduate driven to combat cyber threats with innovative solutions."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kurtis-thorne"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
